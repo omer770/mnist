@@ -11,4 +11,3 @@ In simple terms, MNIST can be thought of as the “Hello, World!” of machine l
 1
 11
 111
-1111
